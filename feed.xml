@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="https://berbagimadani.github.io/document/document/feed.xml" rel="self" type="application/atom+xml" /><link href="https://berbagimadani.github.io/document/document/" rel="alternate" type="text/html" /><updated>2018-05-14T10:30:45+07:00</updated><id>https://berbagimadani.github.io/document/document/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://berbagimadani.github.io/document/document/jekyll/update/2018/05/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-14T09:17:55+07:00</published><updated>2018-05-14T09:17:55+07:00</updated><id>https://berbagimadani.github.io/document/document/jekyll/update/2018/05/14/welcome-to-jekyll</id><content type="html" xml:base="https://berbagimadani.github.io/document/document/jekyll/update/2018/05/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="https://berbagimadani.github.io/document/feed.xml" rel="self" type="application/atom+xml" /><link href="https://berbagimadani.github.io/document/" rel="alternate" type="text/html" /><updated>2018-05-14T11:43:28+07:00</updated><id>https://berbagimadani.github.io/document/</id><title type="html">Aplikasi ebansos</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Ebansos</title><link href="https://berbagimadani.github.io/document/jekyll/update/2018/05/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Ebansos" /><published>2018-05-14T09:17:55+07:00</published><updated>2018-05-14T09:17:55+07:00</updated><id>https://berbagimadani.github.io/document/jekyll/update/2018/05/14/welcome-to-jekyll</id><content type="html" xml:base="https://berbagimadani.github.io/document/jekyll/update/2018/05/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,4 +10,263 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Desain dan Perancangan E-HibahBansos</title><link href="https://berbagimadani.github.io/document/jekyll/update/2018/05/14/desain-dan-perancangan.html" rel="alternate" type="text/html" title="Desain dan Perancangan E-HibahBansos" /><published>2018-05-14T00:00:00+07:00</published><updated>2018-05-14T00:00:00+07:00</updated><id>https://berbagimadani.github.io/document/jekyll/update/2018/05/14/desain-dan-perancangan</id><content type="html" xml:base="https://berbagimadani.github.io/document/jekyll/update/2018/05/14/desain-dan-perancangan.html">&lt;h2 id=&quot;abstrak&quot;&gt;ABSTRAK&lt;/h2&gt;
+&lt;p&gt;Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Adanya kemajuan teknologi ini memungkinkan Sistem untuk menjalankan prosedur pemberian dana hibah dan bantuan sosial dapat berjalan lebih baik dan membantu masyarakat dan Pemerintah Provinsi Banten dalam menjalankan kegiatan yang berkaitan dengan hibah dan bantuan sosial yang lebih terstruktur dan lebih transparansi.&lt;/p&gt;
+
+&lt;h2 id=&quot;daftar-isi&quot;&gt;Daftar Isi&lt;/h2&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#abstrak&quot; id=&quot;markdown-toc-abstrak&quot;&gt;ABSTRAK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#daftar-isi&quot; id=&quot;markdown-toc-daftar-isi&quot;&gt;Daftar Isi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#1-pendahuluan&quot; id=&quot;markdown-toc-1-pendahuluan&quot;&gt;1. PENDAHULUAN&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#11-latar-belakang&quot; id=&quot;markdown-toc-11-latar-belakang&quot;&gt;1.1 Latar Belakang&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#12-maksud-dan-tujuan&quot; id=&quot;markdown-toc-12-maksud-dan-tujuan&quot;&gt;1.2 Maksud dan Tujuan&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#a-maksud&quot; id=&quot;markdown-toc-a-maksud&quot;&gt;a) Maksud&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#b-tujuan&quot; id=&quot;markdown-toc-b-tujuan&quot;&gt;b) Tujuan&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#13-ruang-lingkup-pekerjaan&quot; id=&quot;markdown-toc-13-ruang-lingkup-pekerjaan&quot;&gt;1.3 Ruang Lingkup Pekerjaan&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#14-ruang-lingkup-sistem-informasi--aplikasi&quot; id=&quot;markdown-toc-14-ruang-lingkup-sistem-informasi--aplikasi&quot;&gt;1.4 Ruang Lingkup Sistem Informasi / Aplikasi&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#15-keluaran-yang-diinginkan&quot; id=&quot;markdown-toc-15-keluaran-yang-diinginkan&quot;&gt;1.5 Keluaran yang diinginkan&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#16-waktu-dan-jadwal-pelaksanaan-dan-lokasi-kegiatan&quot; id=&quot;markdown-toc-16-waktu-dan-jadwal-pelaksanaan-dan-lokasi-kegiatan&quot;&gt;1.6 Waktu dan Jadwal Pelaksanaan dan Lokasi Kegiatan&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2-metode-penelitian&quot; id=&quot;markdown-toc-2-metode-penelitian&quot;&gt;2. METODE PENELITIAN&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#21-metode-yang-digunakan&quot; id=&quot;markdown-toc-21-metode-yang-digunakan&quot;&gt;2.1 Metode Yang digunakan&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#22-metode-pengumpulan-data&quot; id=&quot;markdown-toc-22-metode-pengumpulan-data&quot;&gt;2.2 Metode Pengumpulan Data&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3-hasil-pembahasan&quot; id=&quot;markdown-toc-3-hasil-pembahasan&quot;&gt;3. HASIL PEMBAHASAN&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#31-perencanaan-aplikasi&quot; id=&quot;markdown-toc-31-perencanaan-aplikasi&quot;&gt;3.1 Perencanaan Aplikasi&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#32-perancangan-sistem&quot; id=&quot;markdown-toc-32-perancangan-sistem&quot;&gt;3.2. Perancangan Sistem&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#321-use-cace-diagram&quot; id=&quot;markdown-toc-321-use-cace-diagram&quot;&gt;3.2.1 Use Cace Diagram&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3211-use-case-diagram-super-admin&quot; id=&quot;markdown-toc-3211-use-case-diagram-super-admin&quot;&gt;3.2.1.1 Use Case Diagram Super Admin&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3211-use-case-diagram-pendaftar-hibah&quot; id=&quot;markdown-toc-3211-use-case-diagram-pendaftar-hibah&quot;&gt;3.2.1.1 Use Case Diagram Pendaftar Hibah&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3212-use-case-diagram-organisasi-perangkat-daerah-opd&quot; id=&quot;markdown-toc-3212-use-case-diagram-organisasi-perangkat-daerah-opd&quot;&gt;3.2.1.2 Use Case Diagram Organisasi Perangkat Daerah (OPD)&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3213-use-case-diagram-inspektorat&quot; id=&quot;markdown-toc-3213-use-case-diagram-inspektorat&quot;&gt;3.2.1.3 Use Case Diagram Inspektorat&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3214-use-case-diagram-tapd&quot; id=&quot;markdown-toc-3214-use-case-diagram-tapd&quot;&gt;3.2.1.4 Use Case Diagram TAPD&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3215-use-case-diagram-bpkad&quot; id=&quot;markdown-toc-3215-use-case-diagram-bpkad&quot;&gt;3.2.1.5 Use Case Diagram BPKAD&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#322-activity-diagram&quot; id=&quot;markdown-toc-322-activity-diagram&quot;&gt;3.2.2 Activity Diagram&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3221-activity-diagram-super-admin&quot; id=&quot;markdown-toc-3221-activity-diagram-super-admin&quot;&gt;3.2.2.1 Activity Diagram Super Admin&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3222-activity-diagram-kegiatan-belanja-hibah-bansos&quot; id=&quot;markdown-toc-3222-activity-diagram-kegiatan-belanja-hibah-bansos&quot;&gt;3.2.2.2 Activity Diagram Kegiatan Belanja Hibah Bansos&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#323-sequence-diagram&quot; id=&quot;markdown-toc-323-sequence-diagram&quot;&gt;3.2.3 Sequence Diagram&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3231-sequence-diagram-super-admin&quot; id=&quot;markdown-toc-3231-sequence-diagram-super-admin&quot;&gt;3.2.3.1 Sequence Diagram Super Admin&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3232-sequence-kegiatan-belanja-hibah-bansos&quot; id=&quot;markdown-toc-3232-sequence-kegiatan-belanja-hibah-bansos&quot;&gt;3.2.3.2 Sequence Kegiatan Belanja Hibah Bansos&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#324-state-chart-diagram&quot; id=&quot;markdown-toc-324-state-chart-diagram&quot;&gt;3.2.4 State Chart Diagram&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3241-state-chart-diagram-super-admin&quot; id=&quot;markdown-toc-3241-state-chart-diagram-super-admin&quot;&gt;3.2.4.1 State Chart Diagram Super Admin&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3242-state-chart-diagram-pendaftar-hibah--bansos&quot; id=&quot;markdown-toc-3242-state-chart-diagram-pendaftar-hibah--bansos&quot;&gt;3.2.4.2 State Chart Diagram Pendaftar Hibah / Bansos&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3243-state-chart-diagram-opd&quot; id=&quot;markdown-toc-3243-state-chart-diagram-opd&quot;&gt;3.2.4.3 State Chart Diagram OPD&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3244-state-chart-diagram-inspektorat&quot; id=&quot;markdown-toc-3244-state-chart-diagram-inspektorat&quot;&gt;3.2.4.4 State Chart Diagram Inspektorat&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3245-state-chart-diagram-tapd&quot; id=&quot;markdown-toc-3245-state-chart-diagram-tapd&quot;&gt;3.2.4.5 State Chart Diagram TAPD&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3246-state-chart-diagram-bpkad&quot; id=&quot;markdown-toc-3246-state-chart-diagram-bpkad&quot;&gt;3.2.4.6 State Chart Diagram BPKAD&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#325-deployment-diagram&quot; id=&quot;markdown-toc-325-deployment-diagram&quot;&gt;3.2.5 Deployment Diagram&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#326-technology-stack-diagram&quot; id=&quot;markdown-toc-326-technology-stack-diagram&quot;&gt;3.2.6 Technology Stack Diagram&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#33-tahapan-pekerjaan-&quot; id=&quot;markdown-toc-33-tahapan-pekerjaan-&quot;&gt;3.3 Tahapan Pekerjaan :&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#331-analisis-dan-perancangan&quot; id=&quot;markdown-toc-331-analisis-dan-perancangan&quot;&gt;3.3.1 Analisis dan Perancangan&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#332-pembangunan-sistem&quot; id=&quot;markdown-toc-332-pembangunan-sistem&quot;&gt;3.3.2 Pembangunan Sistem&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#333-integrasi-dan-pengujian&quot; id=&quot;markdown-toc-333-integrasi-dan-pengujian&quot;&gt;3.3.3 Integrasi dan Pengujian&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#34-hasil&quot; id=&quot;markdown-toc-34-hasil&quot;&gt;3.4 Hasil&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#341-layout-tampilan-awal&quot; id=&quot;markdown-toc-341-layout-tampilan-awal&quot;&gt;3.4.1 Layout Tampilan Awal&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#342-layout-tampilan-login&quot; id=&quot;markdown-toc-342-layout-tampilan-login&quot;&gt;3.4.2 Layout Tampilan Login&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#343-layout-tampilan-registrasi&quot; id=&quot;markdown-toc-343-layout-tampilan-registrasi&quot;&gt;3.4.3 Layout Tampilan Registrasi&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#344-layout-tampilan-tentang&quot; id=&quot;markdown-toc-344-layout-tampilan-tentang&quot;&gt;3.4.4 Layout Tampilan Tentang&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#345-layout-tampilan-proposal&quot; id=&quot;markdown-toc-345-layout-tampilan-proposal&quot;&gt;3.4.5 Layout Tampilan Proposal&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#346-layout-tampilan-laporan&quot; id=&quot;markdown-toc-346-layout-tampilan-laporan&quot;&gt;3.4.6 Layout Tampilan Laporan&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#347-layout-tampilan-superadmin&quot; id=&quot;markdown-toc-347-layout-tampilan-superadmin&quot;&gt;3.4.7 Layout Tampilan Superadmin&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3471-layout-tampilan-koreksi&quot; id=&quot;markdown-toc-3471-layout-tampilan-koreksi&quot;&gt;3.4.7.1 Layout Tampilan Koreksi&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3472-layout-tampilan-cms&quot; id=&quot;markdown-toc-3472-layout-tampilan-cms&quot;&gt;3.4.7.2 Layout Tampilan CMS&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#348-layout-tampilan-pendaftar-hibah-bansos&quot; id=&quot;markdown-toc-348-layout-tampilan-pendaftar-hibah-bansos&quot;&gt;3.4.8 Layout Tampilan Pendaftar Hibah Bansos&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3481-layout-tampilan-daftar&quot; id=&quot;markdown-toc-3481-layout-tampilan-daftar&quot;&gt;3.4.8.1 Layout Tampilan Daftar&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3482-layout-tampilan-lpj&quot; id=&quot;markdown-toc-3482-layout-tampilan-lpj&quot;&gt;3.4.8.2 Layout Tampilan LPJ&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#349-layout-tampilan-opd&quot; id=&quot;markdown-toc-349-layout-tampilan-opd&quot;&gt;3.4.9 Layout Tampilan OPD&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3491-layout-tampilan-daftar-opd&quot; id=&quot;markdown-toc-3491-layout-tampilan-daftar-opd&quot;&gt;3.4.9.1 Layout Tampilan Daftar OPD&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3492-layout-tampilan-cek-berkas&quot; id=&quot;markdown-toc-3492-layout-tampilan-cek-berkas&quot;&gt;3.4.9.2 Layout Tampilan Cek Berkas&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3493-layout-tampilan-pemberian-rekomendasi&quot; id=&quot;markdown-toc-3493-layout-tampilan-pemberian-rekomendasi&quot;&gt;3.4.9.3 Layout Tampilan Pemberian Rekomendasi&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#3410-layout-tampilan-inspektorat&quot; id=&quot;markdown-toc-3410-layout-tampilan-inspektorat&quot;&gt;3.4.10 Layout Tampilan Inspektorat&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#34101-layout-tampilan-rekomendasi-dan-verifikasi&quot; id=&quot;markdown-toc-34101-layout-tampilan-rekomendasi-dan-verifikasi&quot;&gt;3.4.10.1 Layout Tampilan Rekomendasi dan Verifikasi&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#3411-layout-dashboard-tapd&quot; id=&quot;markdown-toc-3411-layout-dashboard-tapd&quot;&gt;3.4.11 Layout Dashboard TAPD&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#3491-layout-tampilan-verifikasi&quot; id=&quot;markdown-toc-3491-layout-tampilan-verifikasi&quot;&gt;3.4.9.1 Layout Tampilan Verifikasi&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#3492-layout-tampilan-generate&quot; id=&quot;markdown-toc-3492-layout-tampilan-generate&quot;&gt;3.4.9.2 Layout Tampilan Generate&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#3412-layout-dashboard-bpkad&quot; id=&quot;markdown-toc-3412-layout-dashboard-bpkad&quot;&gt;3.4.12 Layout Dashboard BPKAD&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4penutup&quot; id=&quot;markdown-toc-4penutup&quot;&gt;4.PENUTUP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;1-pendahuluan&quot;&gt;1. PENDAHULUAN&lt;/h2&gt;
+
+&lt;h3 id=&quot;11-latar-belakang&quot;&gt;1.1 Latar Belakang&lt;/h3&gt;
+&lt;p&gt;Pembangunan Sistem informasi / aplikasi / website saat ini yang berlangsung di lingkungan Pemerintah Provinsi Banten seakan – akan berjalan sendiri – sendiri.
+Meskipun sudah ada Peraturan Gubernur No. 35 Tahun 2008 dan Peraturan Gubernur No. 80, belum menjadikan panduan dalam mengembangkan sistem informasi / aplikasi tersebut.
+Agar terdapatnya sebuah sitem yang baik dalam menyelenggarakan kegiatan hibah dan bansos maka perlu dibuatnya suatu fasilitas untuk mendukung kegiatan tersebut. dengan dibuatnya aplikasi E-hibahbansos diharapkan dapat memudahkan segala proses kegiatan E-hibahbansos baik dari sisi pemerintahan maupun masyarakat Provinsi Banten.&lt;/p&gt;
+&lt;h3 id=&quot;12-maksud-dan-tujuan&quot;&gt;1.2 Maksud dan Tujuan&lt;/h3&gt;
+&lt;h4 id=&quot;a-maksud&quot;&gt;a) Maksud&lt;/h4&gt;
+&lt;p&gt;Maksud dari kegiatan ini adalah untuk melakukan kegiatan pengembangan Sistem Informasi E-hibahbansos.&lt;/p&gt;
+&lt;h4 id=&quot;b-tujuan&quot;&gt;b) Tujuan&lt;/h4&gt;
+&lt;p&gt;Sistem ehibahbansos Provinsi Banten dibangun dengan tujuan untuk terciptanya efisiensi proses, perbaikan prosedur, peningkatan transparansi dan akuntabilitas belanja hibah, bantuan sosial dan bantuan keuangan pada Pemerintah Provinsi Banten.&lt;/p&gt;
+&lt;h3 id=&quot;13-ruang-lingkup-pekerjaan&quot;&gt;1.3 Ruang Lingkup Pekerjaan&lt;/h3&gt;
+&lt;p&gt;Ruang lingkup pekerjaan ini adalah pengembangan sistem informasi ini dilakukan di Dinas Komunikasi Informasi Statistika dan Persandian Provinsi Banten, adapun hasil dari kegiatan ini untuk dapat digunakan pada instansi dan masyarakat dilingkungan Pemerintah Provinsi Banten.&lt;/p&gt;
+&lt;h3 id=&quot;14-ruang-lingkup-sistem-informasi--aplikasi&quot;&gt;1.4 Ruang Lingkup Sistem Informasi / Aplikasi&lt;/h3&gt;
+&lt;p&gt;a) Menyediakan situs bagi seluruh Organisasi Perangkat Daerah yang ada dilingkungan Pemerintah Provinsi Banten untuk menyimpan Prosedur Operasional Baku yang berlaku dilingkungannya secara digital,
+b) Menyediakan proses pengaduan pengadaan / pengembangan sistem informasi / aplikasi / website secara digital untuk seluruh Organisasi Perangkat Daerah dilingkungan Pemeeritah Provinsi Banten.&lt;/p&gt;
+&lt;h3 id=&quot;15-keluaran-yang-diinginkan&quot;&gt;1.5 Keluaran yang diinginkan&lt;/h3&gt;
+&lt;p&gt;a) Tersedianya sistem informasi e-hibahbansos bagi sistem informasi / aplikasi / website,
+b) Tersedianya dokumen API yang digunakan.&lt;/p&gt;
+&lt;h3 id=&quot;16-waktu-dan-jadwal-pelaksanaan-dan-lokasi-kegiatan&quot;&gt;1.6 Waktu dan Jadwal Pelaksanaan dan Lokasi Kegiatan&lt;/h3&gt;
+&lt;p&gt;a) Waktu pelaksanaan kegiatan : 3 bulan sejak dikeluarkan SPK sampai dengan pemakaian,
+b) Lokasi kegiatan : Kantor OPD terkait dan Dinas Komunikasi Informasi Statistika dan Persandian Pemerintah Provinsi Banten.&lt;/p&gt;
+&lt;h2 id=&quot;2-metode-penelitian&quot;&gt;2. METODE PENELITIAN&lt;/h2&gt;
+&lt;p&gt;Untuk memperoleh data yang dapat menunjang aplikasi ini, maka di perlukan data teoritis dan data dinas terkait untuk mendapatkan data dan informasi yang berhubungan dengan aplikasi ini.
+Adapun penyusun melakukan beberapa penelitian yang dilakukan dengan :&lt;/p&gt;
+&lt;h3 id=&quot;21-metode-yang-digunakan&quot;&gt;2.1 Metode Yang digunakan&lt;/h3&gt;
+&lt;p&gt;Menggunakan metode &lt;em&gt;prototyping&lt;/em&gt; untuk melakukan perancangan sistem informasi berbasis web.
+Ilustrasi alur &lt;em&gt;prototyping&lt;/em&gt;
+&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/alur-prototype.png&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/alur-prototype.png&quot; alt=&quot;ilustrasi-alur-prototyping&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;22-metode-pengumpulan-data&quot;&gt;2.2 Metode Pengumpulan Data&lt;/h3&gt;
+&lt;p&gt;Untuk mengumpulkan data yang diperlukan untuk membangun sistem ini diadakan wawancara dan studi pustaka. Pengumpulan data ini diperlukan untuk mengetahui permasalahan dan gambaran sistem yang sedang berjalan sehingga dapat mengembangkannya untuk membentuk sistem baru yang dapat mendukung sistem yang sedang berjalan.
+1). Wawancara ini dilakukan kepada Pemprov Banten. Wawancara dilakukan kepada sistem analist Pemprov Banten untuk mengetahui permasalahan dalam proses pendataan yang sedang berjalan sekarang.
+2). Studi Pustaka, Melakukan pengumpulan melalui buku text, internet sebagai referensi.&lt;/p&gt;
+&lt;h2 id=&quot;3-hasil-pembahasan&quot;&gt;3. HASIL PEMBAHASAN&lt;/h2&gt;
+&lt;h3 id=&quot;31-perencanaan-aplikasi&quot;&gt;3.1 Perencanaan Aplikasi&lt;/h3&gt;
+&lt;p&gt;Sistem informasi e-hibahbansos adalah untuk mempermudah pemerintah dan masyarakat dalam menyenggarakan kegiatan hibah dan bantuan sosial.&lt;/p&gt;
+&lt;h3 id=&quot;32-perancangan-sistem&quot;&gt;3.2. Perancangan Sistem&lt;/h3&gt;
+&lt;p&gt;Permodelan rancangan sistem yang digunakan adalah UML (Unified Modeling Language). Menurut Whitten dan Bentley (2007, p.381), Unified Modeling Language adalah kumpulan rancangan diagram untuk membangun sebuah sistem atau aplikasi yang dimana setiap diagram menyediakan sistem informasi kepada tim pengembang dengan berbagai sudut pandang yang berbeda-beda. UML yang kami gunakan terdiri dari use case diagram, activity diagram, sequence diagram, state chart diagram, class diagram, deploymen diagram dan technology diagram.&lt;/p&gt;
+
+&lt;h4 id=&quot;321-use-cace-diagram&quot;&gt;3.2.1 Use Cace Diagram&lt;/h4&gt;
+&lt;h5 id=&quot;3211-use-case-diagram-super-admin&quot;&gt;3.2.1.1 Use Case Diagram Super Admin&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/usecase_superadmin.png&quot; alt=&quot;use-case-diagram-super-admin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;3211-use-case-diagram-pendaftar-hibah&quot;&gt;3.2.1.1 Use Case Diagram Pendaftar Hibah&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-diagram-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/usecase_pelapor.png&quot; alt=&quot;use case diagram Pendaftar Hibah&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3212-use-case-diagram-organisasi-perangkat-daerah-opd&quot;&gt;3.2.1.2 Use Case Diagram Organisasi Perangkat Daerah (OPD)&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/usecase_opd.png&quot; alt=&quot;use-case-diagram-opd&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3213-use-case-diagram-inspektorat&quot;&gt;3.2.1.3 Use Case Diagram Inspektorat&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/usecase_inspektorat.png&quot; alt=&quot;use-case-diagram-Inspektorat&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3214-use-case-diagram-tapd&quot;&gt;3.2.1.4 Use Case Diagram TAPD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/usecase_tapd.png&quot; alt=&quot;use-case-diagram-TAPD&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3215-use-case-diagram-bpkad&quot;&gt;3.2.1.5 Use Case Diagram BPKAD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/use-case-dinas.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/usecase_bpkad.png&quot; alt=&quot;use-case-diagram-BPKAD&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;322-activity-diagram&quot;&gt;3.2.2 Activity Diagram&lt;/h4&gt;
+
+&lt;h5 id=&quot;3221-activity-diagram-super-admin&quot;&gt;3.2.2.1 Activity Diagram Super Admin&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/activitydiagram_superadmin.png&quot; alt=&quot;activity-diagram-super-admin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3222-activity-diagram-kegiatan-belanja-hibah-bansos&quot;&gt;3.2.2.2 Activity Diagram Kegiatan Belanja Hibah Bansos&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-input-data-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/activitydiagram_workflow-hibahbansos.png&quot; alt=&quot;activity-diagram-kegiatan-belanja-dana-hibah-bansos&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;323-sequence-diagram&quot;&gt;3.2.3 Sequence Diagram&lt;/h4&gt;
+&lt;h5 id=&quot;3231-sequence-diagram-super-admin&quot;&gt;3.2.3.1 Sequence Diagram Super Admin&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/sequence-diagram-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/sequencediagram_superadmin.png&quot; alt=&quot;sequence-diagram-super-admin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3232-sequence-kegiatan-belanja-hibah-bansos&quot;&gt;3.2.3.2 Sequence Kegiatan Belanja Hibah Bansos&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/sequence-diagram-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/sequencediagram_workflow.png&quot; alt=&quot;sequence-diagram-belanja-hibah-bansos&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;324-state-chart-diagram&quot;&gt;3.2.4 State Chart Diagram&lt;/h4&gt;
+&lt;h5 id=&quot;3241-state-chart-diagram-super-admin&quot;&gt;3.2.4.1 State Chart Diagram Super Admin&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-login-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/statechart_superadmin.png&quot; alt=&quot;state-chart-diagram-super-admin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3242-state-chart-diagram-pendaftar-hibah--bansos&quot;&gt;3.2.4.2 State Chart Diagram Pendaftar Hibah / Bansos&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-input-data-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/statechart_pendaftar.png&quot; alt=&quot;state-chart-diagram-pendaftar&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3243-state-chart-diagram-opd&quot;&gt;3.2.4.3 State Chart Diagram OPD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-edit-data-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/statechart_opd.png&quot; alt=&quot;state-chart-diagram-opd&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3244-state-chart-diagram-inspektorat&quot;&gt;3.2.4.4 State Chart Diagram Inspektorat&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-delete-data-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/statechart_inspektorat.png&quot; alt=&quot;state-chart-diagram-inspektorat&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3245-state-chart-diagram-tapd&quot;&gt;3.2.4.5 State Chart Diagram TAPD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-view-data-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/statechart_tapd.png&quot; alt=&quot;state-chart-diagram-tapd&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3246-state-chart-diagram-bpkad&quot;&gt;3.2.4.6 State Chart Diagram BPKAD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/state-chart-diagram-view-data-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/statechart_bpkad.png&quot; alt=&quot;state-chart-diagram-bpkad&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;325-deployment-diagram&quot;&gt;3.2.5 Deployment Diagram&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/deployment-diagram.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/deployment-diagram.jpg&quot; alt=&quot;deployment-diagram&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;326-technology-stack-diagram&quot;&gt;3.2.6 Technology Stack Diagram&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/technology-stack-diagram.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/technology-stack-diagram.jpg&quot; alt=&quot;technology-stack-diagram&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;33-tahapan-pekerjaan-&quot;&gt;3.3 Tahapan Pekerjaan :&lt;/h3&gt;
+&lt;p&gt;Tahap-tahap atau langkah yang dilakukan dalam mengembangkan Sistem Informasi E-hibahbansos adalah sebagai berikut:&lt;/p&gt;
+&lt;h4 id=&quot;331-analisis-dan-perancangan&quot;&gt;3.3.1 Analisis dan Perancangan&lt;/h4&gt;
+&lt;p&gt;1). Analisis
+Tim pengembang aplikasi akan melakukan analisis jika diperlukan dapat dilakukan survey pendahuluan untuk melihat sejauh mana kebutuhan pengguna akan sistem yang akan dibangun, data-data yang dibutuhkan, dll. Dalam analisis ini dilakukana diskusi-diskusi baik dengan bagian terkait pada satuan kerja.&lt;/p&gt;
+
+&lt;p&gt;2). Perancangan Sistem
+Perancangan sistem dilaksanakan setelah proses analisis dilaksanakan dan telah disepakati modul dan prosedur-prosedur yang akan diterapkan dalam sistem. Perancangan sistem meliputi kegiatan: penetapan alur data/dokumen, penetapan prosedur, perancangan database, perancangan form dan perancangan interface/dialog layar.&lt;/p&gt;
+&lt;h4 id=&quot;332-pembangunan-sistem&quot;&gt;3.3.2 Pembangunan Sistem&lt;/h4&gt;
+&lt;p&gt;Setelah proses analisis dan perancangan sistem selesai dilakukan, tahapan selanjutnya adalah pembangunan sistem, yang meliputi kegiatan. Pembuatan struktur database, pembuatan kode program/koding, pembuatan laporan-laporan.&lt;/p&gt;
+&lt;h4 id=&quot;333-integrasi-dan-pengujian&quot;&gt;3.3.3 Integrasi dan Pengujian&lt;/h4&gt;
+&lt;p&gt;1). Integrasi
+Setelah proses pengembangan sistem selasai dilakukan, tahap selanjutnya adalah Integrasi sistem, yang meliputi kegiatan: pembuatan struktur database terkait integrasi, pembuatan kode program/coding terkait integrasi, pembuatan laporan-laporan terkait integrasi.
+Penggunaan webservices / API yang telah disiapkan oleh sistem informasi / aplikasi yang ada.
+2). Pengujian
+Sistem yang telah selesai dibuat akan diuji coba menggunakan data test sebelum sistem dijalankan. Dalam uji coba sistem ini akan diterapkan metode prototye, yaitu jika terjadi kesalahan/kekurangan baik proses maupuan output sistem, maka kesalahan/kekurangan tersebut akan diperbaiki/ditambahkan, sehingga memungkinkan pengembang untuk kembali ke tahapan pertama yaitu analisa (jika kekurangan sistem memang tidak terdefinisikan dalam dokumen perancangan sistem).&lt;/p&gt;
+
+&lt;h3 id=&quot;34-hasil&quot;&gt;3.4 Hasil&lt;/h3&gt;
+&lt;p&gt;Berikut ini adalah hasil eksekusi sistem informasi Dashboard&lt;/p&gt;
+&lt;h4 id=&quot;341-layout-tampilan-awal&quot;&gt;3.4.1 Layout Tampilan Awal&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/tampilan-awal.png&quot; alt=&quot;tampilan-awal&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;342-layout-tampilan-login&quot;&gt;3.4.2 Layout Tampilan Login&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-awal-login.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/login.png&quot; alt=&quot;dashboard-awal-login&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;343-layout-tampilan-registrasi&quot;&gt;3.4.3 Layout Tampilan Registrasi&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/registrasi.png&quot; alt=&quot;dashboard-super-admin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;344-layout-tampilan-tentang&quot;&gt;3.4.4 Layout Tampilan Tentang&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_tentang.png&quot; alt=&quot;Tentang&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;345-layout-tampilan-proposal&quot;&gt;3.4.5 Layout Tampilan Proposal&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-super-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_proposal.png&quot; alt=&quot;Tentang&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;346-layout-tampilan-laporan&quot;&gt;3.4.6 Layout Tampilan Laporan&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_laporan.png&quot; alt=&quot;dashboard-superadmin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;347-layout-tampilan-superadmin&quot;&gt;3.4.7 Layout Tampilan Superadmin&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/tampilan-awal_superadmin.png&quot; alt=&quot;dashboard-superadmin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3471-layout-tampilan-koreksi&quot;&gt;3.4.7.1 Layout Tampilan Koreksi&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_koreksi.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3472-layout-tampilan-cms&quot;&gt;3.4.7.2 Layout Tampilan CMS&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_cms.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;348-layout-tampilan-pendaftar-hibah-bansos&quot;&gt;3.4.8 Layout Tampilan Pendaftar Hibah Bansos&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_awal-pendaftar.png&quot; alt=&quot;pendaftar&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3481-layout-tampilan-daftar&quot;&gt;3.4.8.1 Layout Tampilan Daftar&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_daftar.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3482-layout-tampilan-lpj&quot;&gt;3.4.8.2 Layout Tampilan LPJ&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_lpj.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;349-layout-tampilan-opd&quot;&gt;3.4.9 Layout Tampilan OPD&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_awal-opd.png&quot; alt=&quot;tampilan OPD&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3491-layout-tampilan-daftar-opd&quot;&gt;3.4.9.1 Layout Tampilan Daftar OPD&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_daftar-opd.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3492-layout-tampilan-cek-berkas&quot;&gt;3.4.9.2 Layout Tampilan Cek Berkas&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_cek-berkas.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3493-layout-tampilan-pemberian-rekomendasi&quot;&gt;3.4.9.3 Layout Tampilan Pemberian Rekomendasi&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_opd-rekomendasi.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;3410-layout-tampilan-inspektorat&quot;&gt;3.4.10 Layout Tampilan Inspektorat&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_awal-inspektorat.png&quot; alt=&quot;tampilan OPD&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;34101-layout-tampilan-rekomendasi-dan-verifikasi&quot;&gt;3.4.10.1 Layout Tampilan Rekomendasi dan Verifikasi&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_rekom-dan-verifikasi.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;3411-layout-dashboard-tapd&quot;&gt;3.4.11 Layout Dashboard TAPD&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_awal-tapd.png&quot; alt=&quot;tampilan OPD&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3491-layout-tampilan-verifikasi&quot;&gt;3.4.9.1 Layout Tampilan Verifikasi&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layout_verifikasi-tapd.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&quot;3492-layout-tampilan-generate&quot;&gt;3.4.9.2 Layout Tampilan Generate&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-admin.jpg&quot;&gt;&lt;img src=&quot;../hibah-bansos/images/desain-dan-perancangan/layuot_generate.png&quot; alt=&quot;koreksi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&quot;3412-layout-dashboard-bpkad&quot;&gt;3.4.12 Layout Dashboard BPKAD&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kesehatan.jpg&quot;&gt;&lt;img src=&quot;/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/dashboard-kesehatan.jpg&quot; alt=&quot;dashboard-kesehatan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;4penutup&quot;&gt;4.PENUTUP&lt;/h2&gt;
+
+&lt;p&gt;Dengan adanya pembuatan dari sistem aplikasi E-hibahbansos diharapkan dapat  terciptanya efisiensi proses, perbaikan prosedur, peningkatan transparansi dan akuntabilitas belanja hibah, bantuan sosial dan bantuan keuangan pada Pemerintah Provinsi Banten.&lt;/p&gt;</content><author><name></name></author><summary type="html">ABSTRAK Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Adanya kemajuan teknologi ini memungkinkan Sistem untuk menjalankan prosedur pemberian dana hibah dan bantuan sosial dapat berjalan lebih baik dan membantu masyarakat dan Pemerintah Provinsi Banten dalam menjalankan kegiatan yang berkaitan dengan hibah dan bantuan sosial yang lebih terstruktur dan lebih transparansi.</summary></entry></feed>
